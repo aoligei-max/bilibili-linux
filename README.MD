@@ -1,3 +1,5 @@
+** Fork from https://github.com/msojocs/bilibili-linux **
+
 <div align="center">
 
   <img src="./res/icons/bilibili.svg" height="100px" width="100px"/>
